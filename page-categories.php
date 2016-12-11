@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Page Categories
-Plugin URI: https://github.com/wp-page-categories
+Plugin URI: https://github.com/fheinle/wp-page-categories
 Description: Adds categories taxonomy to pages
 Version: 1.0
 Author: Florian Heinle
