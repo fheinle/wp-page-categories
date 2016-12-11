@@ -1,9 +1,13 @@
 <?php
-/* Page categories
- * Will add categories attribute to pages
- * (C) 2016 Florian Heinle <launchpad@planet-tiax.de>
- * License: GPLv2
- */
+/*
+Plugin Name: Page Categories
+Plugin URI: https://github.com/wp-page-categories
+Description: Adds categories taxonomy to pages
+Version: 1.0
+Author: Florian Heinle
+Author URI: https://www.florianheinle.de
+License: GPL2
+*/
 
 add_action('admin_init', 'register_categories_taxonomy');
 
